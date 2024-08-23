@@ -12,7 +12,7 @@ Dashboard Design: Created an interactive and responsive dashboard that provides 
 
 User Experience: Focused on creating a dashboard that is both visually appealing and easy to navigate, allowing stakeholders to quickly access the information they need.
 
-Learning Outcomes
+Learning Outcomes :
 
 Working on this project has strengthened my skills in data analysis, Excel, and dashboard design. It has been a rewarding experience that has allowed me to contribute valuable insights to Priya Store's operations.
 
